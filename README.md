@@ -3,11 +3,9 @@
 
 You can check out the summary of lecture and assignments through the following [*link*](https://www.notion.so/CS231n-02079d5286d94b85bcc790a05ec9e7f6)
 
-# 
 
-# 
 
-## Lecture Note
+Lecture Note
 
 ---
 
@@ -47,11 +45,10 @@ You can check out the summary of lecture and assignments through the following [
 
 *layer sizing patterns, AlexNet/ZFnet/VGGNet case studies*
 
-#
 
-#
 
-## *Assignments*
+
+*Assignments*
 
 ---
 
