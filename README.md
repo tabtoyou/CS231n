@@ -1,5 +1,4 @@
-# CS231n 
-http://cs231n.stanford.edu/
+# CS231n - http://cs231n.stanford.edu/
 
 
 You can check out the summary of lecture and assignments through the following link.
