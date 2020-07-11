@@ -8,7 +8,7 @@ You can check out the summary of lecture and assignments through the following [
 ## *Lecture Note*
 
 
-[*1. Image Classification*](https://www.notion.so/1-Image-Classification-eb7f3c9de5f1492ba119498dfeaa430b)
+[1. Image Classification](https://www.notion.so/1-Image-Classification-eb7f3c9de5f1492ba119498dfeaa430b)
 
 *Data-driven Approach, K-Nearest Neighbor, train/validation/test splits*
 
