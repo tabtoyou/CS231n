@@ -3,11 +3,10 @@
 
 You can check out the summary of lecture and assignments through the following [*link*](https://www.notion.so/CS231n-02079d5286d94b85bcc790a05ec9e7f6)
 
-
-
-Lecture Note
-
 ---
+
+## *Lecture Note*
+
 
 [*1. Image Classification*](https://www.notion.so/1-Image-Classification-eb7f3c9de5f1492ba119498dfeaa430b)
 
@@ -46,11 +45,11 @@ Lecture Note
 *layer sizing patterns, AlexNet/ZFnet/VGGNet case studies*
 
 
-
-
-*Assignments*
-
 ---
+
+## *Assignments*
+
+
 
 ## #1
 
